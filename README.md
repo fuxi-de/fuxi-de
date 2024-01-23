@@ -4,7 +4,6 @@ I am a Software Engineering Professional with over a decade of industry experien
 Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com/de-de/).
 
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
-
 <br>
 <br>
 Apart from that, the quote about software engineering I like most is:
@@ -14,7 +13,6 @@ Apart from that, the quote about software engineering I like most is:
 > _probably by Robert C. Martin_
 <br>
 <br>
-
 #### How I interpret my role
 
 - fostering an environment in which __everyone__ can feel safe, supported, and heard
