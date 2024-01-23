@@ -12,7 +12,7 @@ Apart from that, the quote about software engineering I like most is:
 >
 > _probably by Robert C. Martin_
 <br>
-<br>
+
 #### How I interpret my role
 
 - fostering an environment in which __everyone__ can feel safe, supported, and heard
