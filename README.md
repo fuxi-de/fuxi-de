@@ -1,6 +1,6 @@
 ### Hej, my name is Flo. 👋
 
-I am a Software Engineering Professional with over a decade of industry experience.
+I am a Software Engineering Professional with over a decade of industry experience. 
 Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com/de-de/).
 
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
