@@ -7,13 +7,11 @@ I strongly believe in providing teams with the autonomy to be self-sufficient an
 
 <br>
 <br>
-
 Apart from that, the quote about software engineering I like most is:
 
 > Code gets read far more often than it gets written.
 >
 > _probably by Robert C. Martin_
-
 <br>
 <br>
 
