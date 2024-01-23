@@ -6,6 +6,7 @@ Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
 
 
+
 Apart from that, the quote about software engineering I like most is:
 
 > Code gets read far more often than it gets written.
@@ -13,12 +14,13 @@ Apart from that, the quote about software engineering I like most is:
 > _probably by Robert C. Martin_
 
 
+
 #### How I interpret my role
 
 - fostering an environment in which __everyone__ can feel safe, supported, and heard
   - I will have your back, always!
-- making sure everyone is on the same page about the current tasks
-- my job is not to make sure you do your job, but to ensure you are enabled to do it
+- making sure we have common understanding, not only of current tasks, but also of our overall domain context
+- my goal is never to control if you do your job, but to ensure you are enabled to do it
 
 ___
 
