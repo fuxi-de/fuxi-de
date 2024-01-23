@@ -5,8 +5,8 @@ Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com
 
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
 <br>
-<br>
-Apart from that, the quote about software engineering I like most is:
+
+Apart from that, the quote about software engineering I like most is that:
 
 > Code gets read far more often than it gets written.
 >
@@ -41,4 +41,4 @@ ___
   - generalisation leads to tighter coupling
 - arguing for the sake of it, stubborness
 - technological bias
-  - I generally believe there are always multiple tools to get the job done. It varies from team to team which one is the right one.
+  - I generally believe there are always multiple tools to get the job done. It varies from team to team and is situational which one is the right one
