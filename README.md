@@ -9,7 +9,8 @@ I strongly believe in providing teams with the autonomy to be self-sufficient an
 There is a quote that I like:
 
 > Code gets read far more often than it gets written.
-> _Robert C. Martin_
+>
+> _probably by Robert C. Martin_
 ___
 
 #### Things I value
@@ -17,7 +18,7 @@ ___
 - honesty and openness
 - trust
 - iteration over planning
--- to some extend
+  - to some extend
 - ["People over processes"](https://agilemanifesto.org/)
 - [domain driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
 - positive/open error culture
@@ -28,7 +29,7 @@ ___
 
 - unprepared, bad meetings without a clear goal
 - premature abstractions
--- generalisation leads to tighter coupling
+  - generalisation leads to tighter coupling
 - arguing for the sake of it, stubborness
 - technological bias
--- I generally believe there are always multiple tools to get the job done. It varies from team to team which one is the right one.
+  - I generally believe there are always multiple tools to get the job done. It varies from team to team which one is the right one.
