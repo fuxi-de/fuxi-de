@@ -6,7 +6,7 @@ Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com
 
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
 
-There is a quote that I like:
+Apart from that, there is a quote that I like:
 
 > Code gets read far more often than it gets written.
 >
