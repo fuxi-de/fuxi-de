@@ -1,16 +1,17 @@
 ### Hej, my name is Flo. 👋
 
 I am a Software Engineering Professional with over a decade of industry experience.
-
 Currently, I am working as an Engineering Manager at [Tonies](https://tonies.com/de-de/).
 
 I strongly believe in providing teams with the autonomy to be self-sufficient and in control of their own growth and trajectory.
+
 
 Apart from that, there is a quote that I like:
 
 > Code gets read far more often than it gets written.
 >
 > _probably by Robert C. Martin_
+
 ___
 
 #### Things I value
