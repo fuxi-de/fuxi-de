@@ -42,6 +42,9 @@ ___
 
 #### Things I dislike
 
+- above all else rudeness
+  - we are all civilised humans and I expect us to behave as such
+  - always assume the best intent in someones actions
 - unprepared, bad meetings without a clear goal
 - premature abstractions
   - generalisation leads to tighter coupling
