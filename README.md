@@ -21,7 +21,7 @@ ___
   - I will have your back, always!
 - making sure we have common understanding, not only of current tasks, but also of our overall domain context
 - my goal is never to control if you do your job, but to ensure you are enabled to do it
-- [I am supporting my team in whichever way necessary at a given point](https://en.wikipedia.org/wiki/Servant_leadership)
+- [I am trying to support in whichever way necessary at a given point](https://en.wikipedia.org/wiki/Servant_leadership)
   - besides people managment
   - that can mean coding, architecting or documenting
   - as well as facilitating workshops
