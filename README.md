@@ -47,7 +47,7 @@ ___
   - always assume the best intent in someones actions
 - unprepared, bad meetings without a clear goal
 - premature abstractions
-  - generalisation leads to tighter coupling
-- arguing for the sake of it, stubborness
+  - generalisation might lead to tighter coupling
+- arguing for the sake of it, inability to compromise
 - technological bias
-  - I generally believe there are always multiple tools to get the job done. It varies from team to team and is situational which one is the right one
+  - I generally believe there are always multiple tools/technologies to get something done. It varies from team to team and is situational which one is the right one
